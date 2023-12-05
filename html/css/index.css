@@ -29,3 +29,13 @@
  ol {
 	 color: #008000
 }
+
+.container {
+	width: 1820px;
+	height: 500px;
+	background-image: linear-gradient(to right, #E2BCBB, #E4514A);
+}
+.col-1-2 {
+	width: 100%;
+	text-align: center;
+}
