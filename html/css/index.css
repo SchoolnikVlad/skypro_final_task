@@ -1,5 +1,6 @@
 .logo {
 	 float: left;
+	 -webkit-text-stroke: 1px #FFFFFF;
 }
  nav {
 	 float: right;
