@@ -2,35 +2,18 @@ body {
     font-size: 24px;
 }
 .green {
-    color: blue;
+    color: green;
 }
 .red {
-    color: green;
+    color: red;
 }
 .blue {
-    color: red;
-}
-li.green {
-    color: red;
-}
-li.red {
     color: blue;
 }
-li.blue {
-    color: green;
-}
-ul ol li.red {
-    color: cyan;
-}
-ul ol li.green {
-    color: orange;
-}
-ul ol li.blue {
-    color: magenta;
-}
-p.italic {
-    font-weight: italic;
-}
-p.bold {
-    font-style: bold;
+code {
+    padding: 2px 4px;
+    font-size: 90%;
+    color: #c7254e;
+    background-color: #f9f2f4;
+    border-radius: 4px;
 }
